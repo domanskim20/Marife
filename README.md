@@ -20,7 +20,7 @@ I like exploring/learning new things and always curious.
 
 
 ## 💦 Repo Update  
-Repository links - in progress. Transferring from google docs to this repository.
+Repository links - in progress. Migrating google docs as github pages.
 ## 💦 Let's Connect!  
 💡 Always eager to discuss & collaborate on cutting-edge data governance solutions! 🚀  
 
