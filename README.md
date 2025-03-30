@@ -5,6 +5,7 @@ Welcome to my profile!
 I like exploring/learning new things and always curious.  
 
 🔗 **Hover along** [my previous career journey](https://public.tableau.com/app/profile/marife.domanski/viz/MarifeDomanskiWorkStory)
+
 ## 💦 My Current Curiosity  
 ![Screenshot 2025-03-28 133353](https://github.com/user-attachments/assets/96005b22-4bd8-4854-879d-91afd087496e)
 ## 💦 Right now, I’m diving deep into:    
@@ -20,7 +21,8 @@ I like exploring/learning new things and always curious.
 
 
 ## 💦 Repo Update  
-Repository links - in progress. Migrating google docs as github pages.
+- Repository links - in progress. [Migrating google docs as github pages.](https://drive.google.com/drive/folders/1VQqCaFLQJ4ULJfB_YsWw4q4A_H4c7vqm?usp=sharing)
+- A place where I will be documenting all CDMP DAMA data governance framework and my random musing on AI accessibility.
 ## 💦 Let's Connect!  
 💡 Always eager to discuss & collaborate on cutting-edge data governance solutions! 🚀  
 
