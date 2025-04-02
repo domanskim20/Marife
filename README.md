@@ -1,4 +1,4 @@
-# 👀 Hi, I'm Marife.   
+# 👀 Hi, I'm Marife (Maa-ree-faye).   
 
 Welcome to my profile!  
 
