@@ -21,7 +21,7 @@ I like exploring/learning new things and always curious.
 
 
 ## 💦 Repo Update  
-- Repository links - in progress. [Migrating google docs as github pages. Request access here.](https://drive.google.com/drive/folders/1VQqCaFLQJ4ULJfB_YsWw4q4A_H4c7vqm?usp=sharing)
+- Repository links - in progress. [Migrating google docs as github repo. In the meantime request googgle docs access here.](https://drive.google.com/drive/folders/1VQqCaFLQJ4ULJfB_YsWw4q4A_H4c7vqm?usp=sharing)
 - A place where I will be documenting all CDMP DAMA data governance framework, my random musing on AI accessibility, and et.al.
 ## 💦 Let's Connect!  
 💡 Always eager to discuss & collaborate on cutting-edge data governance solutions! 🚀  
