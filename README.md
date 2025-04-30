@@ -17,11 +17,12 @@ I like exploring/learning new things and always curious.
 
 🛠️ **Data Integrity Rules** – Implementing DAMA and CDMP-based governance frameworks.
 
-📂 **Enterprise Data Retention and Governance Strategy** – Develop a detailed plan.
+📂 **Enterprise Data Retention and Governance Strategy** – A detailed plan.
 
+🎯 **Culture of Excellence: A Framework** – a concept beyond continous improvement and center of excellece.
 
 ## 💦 Repo Update  
-- Repository links - in progress. [Migrating google docs as github repo. In the meantime request googgle docs access here.](https://drive.google.com/drive/folders/1VQqCaFLQJ4ULJfB_YsWw4q4A_H4c7vqm?usp=sharing)
+- Repository links - in progress. 🔗 [Migrating google docs as github repo. In the meantime request googgle docs access here.](https://drive.google.com/drive/folders/1VQqCaFLQJ4ULJfB_YsWw4q4A_H4c7vqm?usp=sharing)
 - A place where I will be documenting all CDMP DAMA data governance framework, my random musing on AI accessibility, and et.al.
 ## 💦 Let's Connect!  
 💡 Always eager to discuss & collaborate on cutting-edge data governance solutions! 🚀  
