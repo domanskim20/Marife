@@ -15,7 +15,7 @@ I like exploring/learning new things and always curious.
 
 📈 **Compliance Dashboards** – Building real-time compliance monitoring tools using Power BI & SQL.  
 
-🛠️ **Data Integrity Rules** – Implementing DAMA and CDMP-based governance frameworks.
+🛠️ **Data Integrity and Quality Rules** – Implementing Data Quality Rules using DAMA 9 Dimensions.
 
 📂 **Enterprise Data Retention and Governance Strategy** – A detailed plan.
 
