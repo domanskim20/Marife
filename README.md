@@ -19,7 +19,7 @@ I like exploring/learning new things and always curious.
 
 📂 **Enterprise Data Retention and Governance Strategy** – A detailed plan.
 
-🎯 **Culture of Excellence: A Framework** – a concept beyond continous improvement and center of excellece.
+🎯 **Culture of Excellence: A Framework** – a concept beyond continuous improvement and center of excellence.
 
 ## 💦 Repo Update  
 - Repository links - in progress. 🔗 [Migrating google docs as github repo. In the meantime request google docs access here.](https://drive.google.com/drive/folders/1VQqCaFLQJ4ULJfB_YsWw4q4A_H4c7vqm?usp=sharing)
